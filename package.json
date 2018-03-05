@@ -1,0 +1,22 @@
+{
+  "name": "darrenblog",
+  "version": "1.0.0",
+  "description": "博客项目",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darren-chenchen/darrenblog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darren-chenchen/darrenblog/issues"
+  },
+  "homepage": "https://github.com/Darren-chenchen/darrenblog#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
